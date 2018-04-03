@@ -21,28 +21,14 @@ nav p {
 }
 
 nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+    padding-right: 12%;
 }
 
 li {
-    float: right;
-}
-
-ul a {
-    display: block;
+    display: inline-block;
     color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-ul a:hover {
-    color: #000;
-    background-color: #0c5460;
+    margin: 0 auto;
+    margin-right: 3%;
 }
 
 .header {
@@ -72,6 +58,4 @@ h1 {
     float: left;
 }
 
-#service{
-
-}
+/*# sourceMappingURL=style.css.map */
